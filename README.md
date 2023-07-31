@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arnis</h1>
-<p align="center"> <a href="https://github.com/arnisbartusevicius" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/smq9hzJ/Artboard-9.png" alt="Logo" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://github.com/arnisbartusevicius" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/6yrGqTH/Artboard-10.png" alt="Logo" width="100" height="100"/> </a> </p>
 <h3 align="center">An aspiring Python Developer from Sweden</h3>
 
 - 🌱 I’m currently learning **Python**
