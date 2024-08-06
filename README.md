@@ -5,7 +5,7 @@
   <p align="center"><i>I'm also a <b>Graphic Designer</b> and <b>Video Editor</b></i></p>
   <h2></h2>
   <h3 align="center">Email</h3>
-  <p align="center"><b>arnisbartusevicius@proton.me</b></p>
+  <p align="center"><b>arnisbartusevicius@gmail.com</b></p>
   <h2></h2>
   <h3 align="center">Discord</h3>
   <p align="center"><b>@_arnis</b></p>
